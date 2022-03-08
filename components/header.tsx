@@ -4,7 +4,7 @@ import Container from './container'
 const Header = () => {
   return (
     <Container>
-      <h2 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8">
+      <h2 className="text-xl font-bold tracking-tight md:tracking-tighter leading-tight mb-16 mt-5">
         <Link href="/">
           <a className="hover:underline">Lemonadern's blog</a>
         </Link>
